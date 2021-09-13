@@ -1,5 +1,5 @@
-<h1 align="left"> Olá. Hola. Hello. Bonjour. 你好. <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> <br>
-I'm Dayane Souza! </h1>
+<h2 align="left"> Olá. Hola. Hello. Bonjour. 你好. <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> <br>
+I'm Dayane Souza! </h2>
 
 
 - 🔭 Sou estudante de engenharia elétrica na Poli-USP e participo da Equipe de extensão Skyrats de Drones Inteligentes  
