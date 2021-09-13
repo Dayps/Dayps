@@ -1,4 +1,4 @@
-### Olá. Hola. Hello. Bonjour. 你好.
+### <h2> Olá. Hola. Hello. Bonjour. 你好. </h2>
 ### I'm Dayane Souza! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ##
 
