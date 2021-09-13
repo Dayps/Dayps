@@ -2,7 +2,7 @@
 I'm Dayane Souza! </h2>
 - 🔭 Sou estudante de engenharia elétrica na Poli-USP e participo da Equipe de extensão Skyrats de Drones Inteligentes <br>  
 - 🌱 Estou aprendendo C++, ROS e me habituando com o ambiente Linux
-<img src="https://media0.giphy.com/media/IXW1ZMevfRjUY/giphy.gif?cid=ecf05e47fchs042uwcdsc5ioxnzbylo5tuskf7t8qhvyqha7&rid=giphy.gif&ct=s" width="250px">
+<img alt="gatinho-voador"src="https://media0.giphy.com/media/IXW1ZMevfRjUY/giphy.gif?cid=ecf05e47fchs042uwcdsc5ioxnzbylo5tuskf7t8qhvyqha7&rid=giphy.gif&ct=s" width="250px">
 
  <div>
   <a href="https://github.com/Dayps">
@@ -15,14 +15,20 @@ I'm Dayane Souza! </h2>
   <img align="center" alt="Day-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="Day-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Day-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  
 </div>
-<br>
- 
+
+ ##
+
 <div>
+
   <a href="https://instagram.com/dayaneps_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:souzapdaya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dayanepsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/Dayps/Dayps/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
-![Snake animation](https://github.com/Dayps/Dayps/blob/output/github-contribution-grid-snake.svg)
+
 
