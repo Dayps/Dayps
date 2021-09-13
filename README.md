@@ -1,7 +1,6 @@
 <h2 align="left"> Olá. Hola. Hello. Bonjour. 你好. <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> <br>
 I'm Dayane Souza! </h2>
-<br>
-- 🔭 Sou estudante de engenharia elétrica na Poli-USP e participo da Equipe de extensão Skyrats de Drones Inteligentes  
+- 🔭 Sou estudante de engenharia elétrica na Poli-USP e participo da Equipe de extensão Skyrats de Drones Inteligentes <br>  
 - 🌱 Estou aprendendo C++, ROS e me habituando com o ambiente Linux
 <img src="https://media0.giphy.com/media/IXW1ZMevfRjUY/giphy.gif?cid=ecf05e47fchs042uwcdsc5ioxnzbylo5tuskf7t8qhvyqha7&rid=giphy.gif&ct=s" width="250px">
 
