@@ -1,4 +1,5 @@
-### Hi, I'm Dayane Souza! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Olá. Hello.
+### I'm Dayane Souza! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ##
 
 - 🔭 Sou estudante de engenharia elétrica na Poli-USP e participo da Equipe de extensão Skyrats de Drones Inteligentes  
