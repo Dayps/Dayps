@@ -1,6 +1,6 @@
 <h2 align="left"> Olá. Hola. Hello. Bonjour. 你好. <br>
 I'm Dayane Souza! </h2>
-- 🔭 Sou estudante de engenharia elétrica na Poli-USP e participo da Equipe de extensão Skyrats de Drones Inteligentes <br>  
+- 🔭 Sou estudante de engenharia elétrica na Poli-USP e sou integrante da Equipe de extensão Skyrats de Drones Inteligentes @SkyRats. <br>  
 - 🌱 Estou aprendendo C++, ROS e me habituando com o ambiente Linux
 <img alt="gatinho-voador"src="https://media0.giphy.com/media/IXW1ZMevfRjUY/giphy.gif?cid=ecf05e47fchs042uwcdsc5ioxnzbylo5tuskf7t8qhvyqha7&rid=giphy.gif&ct=s" width="250px">
 
